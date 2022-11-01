@@ -1,0 +1,119 @@
+[
+    {
+        "product_id":"01",
+        "title":"shirt-01",
+        "color":"red",
+        "price":800,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images": {
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Men"
+    },
+    {
+        "product_id":"02",
+        "title":"shirt-01",
+        "color":"blue",
+        "price":600,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Women"
+    },
+    {
+        "product_id":"03",
+        "title":"shirt-02",
+        "color":"red",
+        "price":900,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Men"
+    },
+    {
+        "product_id":"04",
+        "title":"T-shirt-01",
+        "color":"red",
+        "price":400,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Kids"
+    },
+    {
+        "product_id":"05",
+        "title":"shirt-02",
+        "color":"pink",
+        "price":700,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Women"
+    },
+    {
+        "product_id":"06",
+        "title":"shirt-01",
+        "color":"green",
+        "price":500,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Kids"
+    },
+    {
+        "product_id":"07",
+        "title":"T-shirt-01",
+        "color":"red",
+        "price":600,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Women"
+    },
+    {
+        "product_id":"08",
+        "title":"T-shirt-01",
+        "color":"red",
+        "price":400,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Men"
+    },
+    {
+        "product_id":"09",
+        "title":"T-shirt-02",
+        "color":"red",
+        "price":300,
+        "description":"Red Shirt looks classy",
+        "content":"If you purchase You will get another one without any cost",
+        "images":{
+            "public_id": "avatar/fmh4qcvnfmgxraypw8ay",
+            "url": "https://res.cloudinary.com/dz1daogkg/image/upload/v1655379394/avatar/fmh4qcvnfmgxraypw8ay.jpg"
+        },
+        "category":"Kids"
+    }
+]
